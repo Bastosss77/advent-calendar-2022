@@ -1,6 +1,6 @@
 package puzzles
 
-fun december1() {
+fun day1() {
     val elvesCal = mutableListOf<Int>()
 
     input.reader()
