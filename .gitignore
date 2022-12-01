@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+out
+src/.DS_Store
+advent-calendar-2002.iml
