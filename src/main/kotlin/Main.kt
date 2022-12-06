@@ -1,13 +1,12 @@
-import puzzles.day1
-import puzzles.day2
-import puzzles.day3
-import puzzles.day4
+import puzzles.*
 
 fun main(args: Array<String>) {
     puzzle { day1() }
     puzzle { day2() }
     puzzle { day3() }
     puzzle { day4() }
+   //puzzle { day5() }
+    puzzle { day6() }
 }
 
 private fun puzzle(puzzle: () -> Unit) {
