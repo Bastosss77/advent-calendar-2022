@@ -7,6 +7,7 @@ fun main(args: Array<String>) {
     puzzle { day4() }
    //puzzle { day5() }
     puzzle { day6() }
+    puzzle { day7() }
 }
 
 private fun puzzle(puzzle: () -> Unit) {
